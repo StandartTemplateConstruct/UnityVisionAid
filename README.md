@@ -3,7 +3,6 @@ an iPhone application that helps user to locate a real life objects in space usi
 
 
 
-# STVisualImpairmentAid
 An aid to assist visually impaired people
 
 
